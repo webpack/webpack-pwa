@@ -1,0 +1,1 @@
+webpackJsonp([4],{7:function(e,n,o){"use strict";function r(e){return document.body.innerHTML="<h1></h1>",document.querySelector("h1").innerText=`Loading ${e}...`,Promise.resolve()}function t(){return Promise.resolve()}Object.defineProperty(n,"__esModule",{value:!0}),n.open=r,n.close=t}});
