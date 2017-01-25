@@ -16,7 +16,7 @@ export function open() {
 	const lastResult = localStorage.random;
 	if(lastResult)
 		document.querySelector(".content").innerText = `${lastResult} (updating...)`;
-	return fetchAsBase64("http://httpbin.org/bytes/10").then(res => {
+	return fetchAsBase64("https://httpbin.org/bytes/10").then(res => {
 		document.querySelector(".content").innerText = localStorage.random = res;
 	}).catch(err => {
 		if(lastResult)

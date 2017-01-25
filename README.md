@@ -29,18 +29,21 @@ To build the Page Shell version: replace `npm run build-shell` with `npm run bui
 
 ## Architecture
 
-![app shell vs page shell](images/app-vs-page-shell.svg)
+![app shell vs page shell](images/app-vs-page-shell.png)
 
 ### App Shell
 
 * Total size is smaller
 * Initial load requests three files: `login.html`, `shell-1234.js`, `3456.js`
-* Router logic is not needed on initial load
+* Initial load needs to load: Shell + Router + content
 * The shell is visible earlier than with Page Shell approach.
 
 ### Page Shell
 
 * Total size is bigger (i. e. dashboard content is in `dashboard-1234.js` and `4567.js`)
+  * App takes longer to be offline ready.
 * Initial load requests only two files: `login.html`, `login-2345.js`
-* Router logic is not needed on initial load
+* Initial load needs to load: Shell + content
 * The shell + content is visible earlier than with App Shell approach.
+
+A hybrid approach can be used where shell and content is separated in two requests (see admin page as example). This makes sense when content is much bigger than shell and shell should be visible earlier.
