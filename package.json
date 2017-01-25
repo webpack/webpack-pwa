@@ -1,0 +1,24 @@
+{
+  "name": "webpack-pwa",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Example for a super simple PWA with webpack.",
+  "scripts": {
+    "start": "webpack-dev-server -d",
+    "build": "webpack -p",
+    "deploy": "rm -rf dist && webpack -p && gh-pages -d dist",
+    "build-shell": "webpack -p --env.appShell"
+  },
+  "author": "Tobias Koppers @sokra",
+  "license": "MIT",
+  "devDependencies": {
+    "html-loader": "^0.4.4",
+    "html-webpack-plugin": "^2.26.0",
+    "offline-plugin": "^4.5.5",
+    "webpack": "^2.2.0",
+    "webpack-dev-server": "^2.0.0"
+  },
+  "dependencies": {
+    "gh-pages": "^0.12.0"
+  }
+}

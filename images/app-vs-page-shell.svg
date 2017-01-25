@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 744.09448819 1052.3622047"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs4">
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker15831"
+       style="overflow:visible">
+      <path
+         id="path15833"
+         style="fill:#12009f;fill-opacity:1;fill-rule:evenodd;stroke:#12009f;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker15154"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#9f0000;stroke-opacity:1;fill:#9f0000;fill-opacity:1"
+         id="path15156" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker14660"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path14662" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker14090"
+       style="overflow:visible;">
+      <path
+         id="path14092"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#12009f;stroke-opacity:1;fill:#12009f;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker13912"
+       style="overflow:visible;">
+      <path
+         id="path13914"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#12009f;stroke-opacity:1;fill:#12009f;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker13716"
+       style="overflow:visible;">
+      <path
+         id="path13718"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#12009f;stroke-opacity:1;fill:#12009f;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12812"
+       style="overflow:visible">
+      <path
+         id="path12814"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker11184"
+       style="overflow:visible">
+      <path
+         id="path11186"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker10374"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path10376" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10022"
+       style="overflow:visible">
+      <path
+         id="path10024"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9596"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path9598" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9072"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path9074" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker8287"
+       style="overflow:visible;">
+      <path
+         id="path8289"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#12009f;stroke-opacity:1;fill:#12009f;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker8055"
+       style="overflow:visible;">
+      <path
+         id="path8057"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#9f0000;stroke-opacity:1;fill:#9f0000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker7767"
+       style="overflow:visible;">
+      <path
+         id="path7769"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#9f0000;stroke-opacity:1;fill:#9f0000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker7665"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#9f0000;stroke-opacity:1;fill:#9f0000;fill-opacity:1"
+         id="path7667" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker6575"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#12009f;stroke-opacity:1;fill:#12009f;fill-opacity:1"
+         id="path6577" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker6065"
+       style="overflow:visible;">
+      <path
+         id="path6067"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#12009f;stroke-opacity:1;fill:#12009f;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5757"
+       style="overflow:visible;">
+      <path
+         id="path5759"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#9f0000;stroke-opacity:1;fill:#9f0000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker5499"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#9f0000;stroke-opacity:1;fill:#9f0000;fill-opacity:1"
+         id="path5501" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5205"
+       style="overflow:visible;">
+      <path
+         id="path5207"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#9f0000;stroke-opacity:1;fill:#9f0000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4911"
+       style="overflow:visible;">
+      <path
+         id="path4913"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#9f0000;stroke-opacity:1;fill:#9f0000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4599"
+       style="overflow:visible;">
+      <path
+         id="path4601"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#9f0000;stroke-opacity:1;fill:#9f0000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#9f0000;stroke-opacity:1;fill:#9f0000;fill-opacity:1"
+         id="path4310" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker15154-7"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#9f0000;fill-opacity:1;fill-rule:evenodd;stroke:#9f0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path15156-3" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       transform="translate(-1.01015,0)"
+       id="g6449">
+      <g
+         id="g4271"
+         transform="translate(185.86806,182.33253)">
+        <rect
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4273"
+           width="205.34563"
+           height="119.63749"
+           x="329.57593"
+           y="134.90536" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="531.3902"
+           y="152.31015"
+           id="text4275"><tspan
+             x="531.3902"
+             y="152.31015"
+             id="tspan4277"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end">4567.js</tspan></text>
+      </g>
+      <g
+         transform="translate(-44.063464,182.33253)"
+         id="g4263">
+        <rect
+           y="134.90536"
+           x="329.57593"
+           height="119.63749"
+           width="205.34563"
+           id="rect4265"
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text4267"
+           y="152.31015"
+           x="531.3902"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end"
+             id="tspan4269"
+             y="152.31015"
+             x="531.3902">3456.js</tspan></text>
+      </g>
+      <g
+         id="g4255"
+         transform="translate(-268.70058,182.33253)">
+        <rect
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4257"
+           width="247.26695"
+           height="119.63749"
+           x="287.6546"
+           y="134.90536" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="531.3902"
+           y="152.31015"
+           id="text4259"><tspan
+             x="531.3902"
+             y="152.31015"
+             id="tspan4261"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end">2345.js</tspan></text>
+      </g>
+      <g
+         id="g4250"
+         transform="translate(-2.0203051,32.324881)">
+        <rect
+           y="134.90536"
+           x="203.30685"
+           height="119.63749"
+           width="331.61469"
+           id="rect4174-6"
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text4176-9"
+           y="152.31015"
+           x="531.3902"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end"
+             id="tspan4180-4"
+             y="152.31015"
+             x="531.3902">shell-1234.js</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="17.979694"
+         y="44.687084"
+         id="text4279"><tspan
+           id="tspan4281"
+           x="17.979694"
+           y="44.687084">App Shell</tspan></text>
+      <g
+         transform="translate(66.04316,273.75135)"
+         id="g4192">
+        <rect
+           style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4194"
+           width="172.51566"
+           height="54.482651"
+           x="233.96931"
+           y="77.88765" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="320.63135"
+           y="99.079201"
+           id="text4196"><tspan
+             id="tspan4198"
+             x="320.63135"
+             y="99.079201"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Login Content</tspan><tspan
+             x="320.63135"
+             y="117.8292"
+             id="tspan4200"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">(app/login/page.js)</tspan></text>
+      </g>
+      <g
+         transform="translate(-175.26147,273.75135)"
+         id="g4182">
+        <rect
+           style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4184"
+           width="211.57547"
+           height="54.146515"
+           x="214.43941"
+           y="78.055717" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="320.63135"
+           y="99.079201"
+           id="text4186"><tspan
+             id="tspan4188"
+             x="320.63135"
+             y="99.079201"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Dashboard Content</tspan><tspan
+             x="320.63135"
+             y="117.8292"
+             id="tspan4190"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">(app/dashboard/page.js)</tspan></text>
+      </g>
+      <g
+         id="g4202"
+         transform="translate(296.47977,273.75135)">
+        <rect
+           y="77.88765"
+           x="233.96931"
+           height="54.482651"
+           width="172.51566"
+           id="rect4204"
+           style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text4206"
+           y="99.079201"
+           x="320.63135"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             y="99.079201"
+             x="320.63135"
+             id="tspan4208">Admin Content</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             id="tspan4210"
+             y="117.8292"
+             x="320.63135">(app/admin/page.js)</tspan></text>
+      </g>
+      <path
+         id="path5755"
+         d="m 368.2626,258.68203 17.02286,91.51778"
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5757)" />
+      <path
+         id="path5203"
+         d="M 292.47972,258.68203 232.0203,351.71504"
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5205)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5499)"
+         d="M 440.99358,258.17695 550.4454,351.20996"
+         id="path5497" />
+      <g
+         id="g4146"
+         transform="translate(47.477169,126.26907)">
+        <rect
+           y="77.88765"
+           x="233.96931"
+           height="54.482651"
+           width="172.51566"
+           id="rect4138"
+           style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3.23163366;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text4140"
+           y="99.079201"
+           x="320.63135"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             y="99.079201"
+             x="320.63135"
+             id="tspan4142">App Shell</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             id="tspan4144"
+             y="117.8292"
+             x="320.63135">(app/shell.js)</tspan></text>
+      </g>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+         d="m 195,127.3622 35,40"
+         id="path4283" />
+      <path
+         id="path4597"
+         d="m 365.21071,124.83682 0.14973,41.01015"
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4599)" />
+      <path
+         id="path4909"
+         d="m 545.01263,125.84697 -35,40"
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4911)" />
+      <g
+         transform="translate(273.75133,-6.0609155)"
+         id="g4152">
+        <rect
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4154"
+           width="172.51566"
+           height="54.482651"
+           x="233.96931"
+           y="77.88765" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="320.63135"
+           y="99.079201"
+           id="text4156"><tspan
+             id="tspan4158"
+             x="320.63135"
+             y="99.079201"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Admin</tspan><tspan
+             x="320.63135"
+             y="117.8292"
+             id="tspan4160"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">(admin.html)</tspan></text>
+      </g>
+      <g
+         id="g4162"
+         transform="translate(45.456837,-6.0609155)">
+        <rect
+           y="77.88765"
+           x="233.96931"
+           height="54.482651"
+           width="172.51566"
+           id="rect4164"
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text4166"
+           y="99.079201"
+           x="320.63135"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             y="99.079201"
+             x="320.63135"
+             id="tspan4168">Login</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             id="tspan4170"
+             y="117.8292"
+             x="320.63135">(login.html)</tspan></text>
+      </g>
+      <g
+         transform="translate(-182.83762,-6.0609155)"
+         id="g4172">
+        <rect
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4174"
+           width="172.51566"
+           height="54.482651"
+           x="233.96931"
+           y="77.88765" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="320.63135"
+           y="99.079201"
+           id="text4176"><tspan
+             id="tspan4178"
+             x="320.63135"
+             y="99.079201"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Dashboard</tspan><tspan
+             x="320.63135"
+             y="117.8292"
+             id="tspan4180"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">(dashboard.html)</tspan></text>
+      </g>
+      <path
+         id="path6063"
+         d="m 235.40611,191.50689 45.10152,18.78679"
+         style="fill:none;fill-rule:evenodd;stroke:#12009f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker6065)" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path6055"
+         cx="235"
+         cy="192.3622"
+         r="8.9075069" />
+    </g>
+    <g
+       id="g6512">
+      <text
+         id="text6359"
+         y="520.46893"
+         x="16.969542"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="520.46893"
+           x="16.969542"
+           id="tspan6361">Page Shell</tspan></text>
+      <g
+         transform="translate(-277.28687,507.09658)"
+         id="g6351">
+        <rect
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6353"
+           width="235.65018"
+           height="204.99538"
+           x="299.27133"
+           y="134.90536" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="531.3902"
+           y="152.31015"
+           id="text6355"><tspan
+             x="531.3902"
+             y="152.31015"
+             id="tspan6357"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end">dashboard-1234.js</tspan></text>
+      </g>
+      <g
+         id="g6373"
+         transform="translate(-177.78685,703.00272)">
+        <rect
+           y="78.055717"
+           x="214.43941"
+           height="54.146515"
+           width="211.57547"
+           id="rect6375"
+           style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text6377"
+           y="99.079201"
+           x="320.63135"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             y="99.079201"
+             x="320.63135"
+             id="tspan6379">Dashboard Content</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             id="tspan6381"
+             y="117.8292"
+             x="320.63135">(app/dashboard/page.js)</tspan></text>
+      </g>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#12009f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker8287)"
+         d="m 137.94782,748.10094 -0.14973,31.91878"
+         id="path6393" />
+      <g
+         id="g7260"
+         transform="translate(-46.97209,506.5915)">
+        <rect
+           y="134.90536"
+           x="328.06067"
+           height="204.99538"
+           width="206.86082"
+           id="rect7262"
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text7264"
+           y="152.31015"
+           x="531.3902"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end"
+             id="tspan7266"
+             y="152.31015"
+             x="531.3902">login-2345.js</tspan></text>
+      </g>
+      <g
+         transform="translate(67.68022,702.49764)"
+         id="g7268">
+        <rect
+           style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect7270"
+           width="173.18967"
+           height="54.146515"
+           x="233.63231"
+           y="78.055717" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="320.63135"
+           y="99.079201"
+           id="text7272"><tspan
+             x="320.63135"
+             y="99.079201"
+             id="tspan7276"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Login Content</tspan><tspan
+             x="320.63135"
+             y="117.8292"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             id="tspan7344">(app/login/page.js)</tspan></text>
+      </g>
+      <path
+         id="path7278"
+         d="m 383.41489,747.59586 -0.14973,31.91878"
+         style="fill:none;fill-rule:evenodd;stroke:#12009f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker14090)" />
+      <path
+         id="path7290"
+         d="m 315.20816,662.23798 7.2208,30.40354"
+         style="fill:none;fill-rule:evenodd;stroke:#12009f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker13912)" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle7292"
+         cx="314.19293"
+         cy="662.62885"
+         r="8.9075069" />
+      <g
+         transform="translate(180.31223,506.5915)"
+         id="g7352">
+        <rect
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect7354"
+           width="206.86082"
+           height="204.99538"
+           x="328.06067"
+           y="134.90536" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="531.3902"
+           y="152.31015"
+           id="text7356"><tspan
+             x="531.3902"
+             y="152.31015"
+             id="tspan7358"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end">admin-3456.js</tspan></text>
+      </g>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#12009f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker6575)"
+         d="m 542.49248,662.23798 7.2208,30.40354"
+         id="path7382" />
+      <circle
+         r="8.9075069"
+         cy="662.62885"
+         cx="541.47723"
+         id="circle7384"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g4271-4"
+         transform="translate(182.0254,744.30717)">
+        <rect
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4273-4"
+           width="205.34563"
+           height="119.63749"
+           x="329.57593"
+           y="134.90536" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="531.3902"
+           y="152.31015"
+           id="text4275-0"><tspan
+             x="531.3902"
+             y="152.31015"
+             id="tspan4277-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end">6789.js</tspan></text>
+      </g>
+      <g
+         transform="translate(-47.906125,744.30717)"
+         id="g4263-0">
+        <rect
+           y="134.90536"
+           x="329.57593"
+           height="119.63749"
+           width="205.34563"
+           id="rect4265-5"
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text4267-7"
+           y="152.31015"
+           x="531.3902"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end"
+             id="tspan4269-2"
+             y="152.31015"
+             x="531.3902">5678.js</tspan></text>
+      </g>
+      <g
+         id="g4255-5"
+         transform="translate(-272.54324,744.30717)">
+        <rect
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4257-2"
+           width="247.26695"
+           height="119.63749"
+           x="287.6546"
+           y="134.90536" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="531.3902"
+           y="152.31015"
+           id="text4259-8"><tspan
+             x="531.3902"
+             y="152.31015"
+             id="tspan4261-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end">4567.js</tspan></text>
+      </g>
+      <g
+         transform="translate(62.200501,835.72598)"
+         id="g4192-1">
+        <rect
+           style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4194-9"
+           width="172.51566"
+           height="54.482651"
+           x="233.96931"
+           y="77.88765" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="320.63135"
+           y="99.079201"
+           id="text4196-6"><tspan
+             id="tspan4198-2"
+             x="320.63135"
+             y="99.079201"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Login Content</tspan><tspan
+             x="320.63135"
+             y="117.8292"
+             id="tspan4200-6"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">(app/login/page.js)</tspan></text>
+      </g>
+      <g
+         transform="translate(-179.10413,835.72598)"
+         id="g4182-0">
+        <rect
+           style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4184-5"
+           width="211.57547"
+           height="54.146515"
+           x="214.43941"
+           y="78.055717" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="320.63135"
+           y="99.079201"
+           id="text4186-6"><tspan
+             id="tspan4188-6"
+             x="320.63135"
+             y="99.079201"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Dashboard Content</tspan><tspan
+             x="320.63135"
+             y="117.8292"
+             id="tspan4190-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">(app/dashboard/page.js)</tspan></text>
+      </g>
+      <g
+         id="g4202-9"
+         transform="translate(292.63711,835.72598)">
+        <rect
+           y="77.88765"
+           x="233.96931"
+           height="54.482651"
+           width="172.51566"
+           id="rect4204-6"
+           style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text4206-5"
+           y="99.079201"
+           x="320.63135"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             y="99.079201"
+             x="320.63135"
+             id="tspan4208-9">Admin Content</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             id="tspan4210-2"
+             y="117.8292"
+             x="320.63135">(app/admin/page.js)</tspan></text>
+      </g>
+      <path
+         id="path7765"
+         d="m 608.47473,600.61867 0.14973,41.01015"
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker7767)" />
+      <path
+         id="path8053"
+         d="m 137.74364,600.61867 0.14973,41.01015"
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker8055)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker7665)"
+         d="m 382.20056,600.61867 0.14973,41.01015"
+         id="path6411" />
+      <g
+         transform="translate(62.446685,469.72093)"
+         id="g6425">
+        <rect
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6427"
+           width="172.51566"
+           height="54.482651"
+           x="233.96931"
+           y="77.88765" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="320.63135"
+           y="99.079201"
+           id="text6429"><tspan
+             id="tspan6431"
+             x="320.63135"
+             y="99.079201"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Login</tspan><tspan
+             x="320.63135"
+             y="117.8292"
+             id="tspan6433"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">(login.html)</tspan></text>
+      </g>
+      <g
+         id="g6435"
+         transform="translate(-179.84777,469.72093)">
+        <rect
+           y="77.88765"
+           x="233.96931"
+           height="54.482651"
+           width="172.51566"
+           id="rect6437"
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text6439"
+           y="99.079201"
+           x="320.63135"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             y="99.079201"
+             x="320.63135"
+             id="tspan6441">Dashboard</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             id="tspan6443"
+             y="117.8292"
+             x="320.63135">(dashboard.html)</tspan></text>
+      </g>
+      <g
+         id="g6415"
+         transform="translate(286.74118,469.72093)">
+        <rect
+           y="77.88765"
+           x="233.96931"
+           height="54.482651"
+           width="172.51566"
+           id="rect6417"
+           style="fill:#c1c1c1;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text6419"
+           y="99.079201"
+           x="320.63135"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             y="99.079201"
+             x="320.63135"
+             id="tspan6421">Admin</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             id="tspan6423"
+             y="117.8292"
+             x="320.63135">(admin.html)</tspan></text>
+      </g>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker9072)"
+         d="m 228.20163,732.64407 46.39215,29.09138 -0.54247,96.62059 215.64885,-0.68212 44.93306,54.87628"
+         id="path9070" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker9596)"
+         d="m 228.70671,743.25067 40.83632,24.04062 0.46767,100.6612 31.27729,43.58756"
+         id="path9592" />
+      <path
+         id="path10018"
+         d="m 527.9134,745.77606 -29.72464,25.55584 0.0374,85.50891 -42.89404,55.20432"
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker10022)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker10374)"
+         d="m 528.41848,733.14915 -34.7754,30.10153 0.0374,89.04445 -238.88236,0.32803 -42.91276,60.9372"
+         id="path10020" />
+      <path
+         id="path11182"
+         d="m 472.65855,732.139 29.72464,29.59645 0.97275,100.6612 42.89404,49.64848"
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker11184)" />
+      <path
+         id="path12810"
+         d="m 300.06565,744.26083 -35.28047,40.20306 -0.46768,77.93276 -34.81282,49.1434"
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker12812)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker14660)"
+         d="m 604.34198,748.6332 0.27586,162.69764"
+         id="path14658" />
+      <g
+         transform="translate(293.95439,616.53569)"
+         id="g7372">
+        <rect
+           style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3.23163366;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect7374"
+           width="172.51566"
+           height="54.482651"
+           x="233.96931"
+           y="77.88765" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="320.63135"
+           y="99.079201"
+           id="text7376"><tspan
+             id="tspan7378"
+             x="320.63135"
+             y="99.079201"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Admin Shell</tspan><tspan
+             x="320.63135"
+             y="117.8292"
+             id="tspan7380"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">(app/admin.js)</tspan></text>
+      </g>
+      <g
+         id="g7280"
+         transform="translate(66.67007,616.53569)">
+        <rect
+           y="77.88765"
+           x="233.96931"
+           height="54.482651"
+           width="172.51566"
+           id="rect7282"
+           style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3.23163366;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text7284"
+           y="99.079201"
+           x="320.63135"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             y="99.079201"
+             x="320.63135"
+             id="tspan7286">Login Shell</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+             id="tspan7288"
+             y="117.8292"
+             x="320.63135">(app/login.js)</tspan></text>
+      </g>
+      <g
+         transform="translate(-178.797,617.04077)"
+         id="g6399">
+        <rect
+           style="fill:#c1ffc1;fill-opacity:1;stroke:#000000;stroke-width:3.23163366;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6401"
+           width="172.51566"
+           height="54.482651"
+           x="233.96931"
+           y="77.88765" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="320.63135"
+           y="99.079201"
+           id="text6403"><tspan
+             id="tspan6405"
+             x="320.63135"
+             y="99.079201"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">Dashboard Shell</tspan><tspan
+             x="320.63135"
+             y="117.8292"
+             id="tspan6407"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">(app/dashboard.js)</tspan></text>
+      </g>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#12009f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker13716)"
+         d="m 69.741092,662.74306 7.2208,30.40354"
+         id="path6445" />
+      <circle
+         r="8.9075069"
+         cy="663.13391"
+         cx="68.725853"
+         id="circle6447"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="608.15717"
+         y="785.61487"
+         id="text7376-2"><tspan
+           x="608.15717"
+           y="785.61487"
+           id="tspan7380-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;writing-mode:lr;text-anchor:middle">hybird</tspan><tspan
+           id="tspan15140"
+           x="608.15717"
+           y="804.36487"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr;text-anchor:middle">loading content async</tspan><tspan
+           id="tspan15142"
+           x="608.15717"
+           y="823.11487"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr;text-anchor:middle">to reduce total size</tspan><tspan
+           id="tspan15144"
+           x="608.15717"
+           y="841.86487"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr;text-anchor:middle">(assuming admin content is big)</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="520.29999"
+       y="472.75775"
+       id="text7376-2-2"><tspan
+         id="tspan15144-8"
+         x="520.29999"
+         y="472.75775"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">load async (extra request to SW)</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#9f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker15154-7)"
+       d="m 474.47309,469.77004 41.01015,-0.14973"
+       id="path15152" />
+    <text
+       id="text15819"
+       y="488.47205"
+       x="520.29999"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         y="488.47205"
+         x="520.29999"
+         id="tspan15821">load sync (in the same bundle)</tspan></text>
+    <path
+       id="path15823"
+       d="m 474.47309,485.48433 41.01015,-0.14973"
+       style="fill:none;fill-rule:evenodd;stroke:#12009f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker15831)" />
+  </g>
+</svg>
