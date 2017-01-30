@@ -2,7 +2,7 @@ const path = require("path");
 const OfflinePlugin = require("offline-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
-module.exports = ({ appShell } = {}) => ({
+module.exports = ({ appShell, output = "." } = {}) => ({
 	entry: appShell ? {
 		// App Shell has only a single entry point
 		// this entry point loads pages with import()
@@ -14,7 +14,7 @@ module.exports = ({ appShell } = {}) => ({
 		admin: "./app/admin.js"
 	},
 	output: {
-		path: path.resolve(__dirname, "dist"),
+		path: path.resolve(__dirname, "dist", output),
 		filename: "[name]-[chunkhash].js",
 		chunkFilename: "[chunkhash].js"
 	},

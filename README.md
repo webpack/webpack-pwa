@@ -25,7 +25,7 @@ open http://localhost:8080/dashboard.html
 
 This builds the App Shell version.
 
-To build the Page Shell version: replace `npm run build-shell` with `npm run build`.
+To build the Page Shell version: replace `npm run build-shell` with `npm run build-page`.
 
 ## Architecture
 

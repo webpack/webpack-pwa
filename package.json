@@ -5,8 +5,9 @@
   "description": "Example for a super simple PWA with webpack.",
   "scripts": {
     "start": "webpack-dev-server -d",
-    "build": "webpack -p",
-    "deploy": "rm -rf dist && webpack -p && gh-pages -d dist",
+    "build-page": "webpack -p",
+    "build-both": "webpack -p --env.output page-shell && webpack -p --env.appShell --env.output app-shell",
+    "deploy": "rm -rf dist && webpack -p --env.output page-shell && webpack -p --env.appShell --env.output app-shell && gh-pages -d dist",
     "build-shell": "webpack -p --env.appShell"
   },
   "author": "Tobias Koppers @sokra",

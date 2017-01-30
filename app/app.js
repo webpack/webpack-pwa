@@ -38,9 +38,15 @@ export function bootstrapAsync(pageName) {
 function registerRouter() {
 	window.addEventListener("popstate", event => {
 		openPage(event.state || {
-			page: location.pathname.replace(/^\/|\.html$/g, "")
+			page: getCurrentPage()
 		});
 	});
+}
+
+// get current page from URL
+export function getCurrentPage() {
+	var m = /([^\/]+)\.html/.exec(location.pathname);
+	return m ? m[1] : "unknown";
 }
 
 // Start loading loading page

@@ -1,3 +1,3 @@
 import "./loading/page";
-import { bootstrapAsync } from "./app";
-bootstrapAsync(location.pathname.replace(/^\/|\.html$/g, ""));
+import { bootstrapAsync, getCurrentPage } from "./app";
+bootstrapAsync(getCurrentPage());
