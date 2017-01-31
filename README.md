@@ -1,6 +1,6 @@
 # webpack-pwa
 
-Super simple webpack PWA example featuring
+Super simple webpack PWA(Progressive Web App) example featuring
 
 * Routing with **On Demand Loading**
 * Offline support
