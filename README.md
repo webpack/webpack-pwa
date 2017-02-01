@@ -4,7 +4,7 @@ Super simple webpack PWA(Progressive Web App) example featuring
 
 * Routing with **On Demand Loading**
 * Offline support
-* Feaching some data from network
+* Fetching some data from network
 * Two approaches
   * App Shell
   * Page Shell
