@@ -43,6 +43,26 @@ module.exports = ({ appShell, output = "." } = {}) => ({
 			chunks: !appShell && ["admin"]
 		}),
 		// Offline support
-		new OfflinePlugin()
+		new OfflinePlugin({
+			caches: {
+				main: [
+					// These assets don't have a chunk hash.
+					// SW fetch them on every SW update.
+					"dashboard.html",
+					"login.html",
+					"admin.html"
+				],
+				additional: [
+					// All other assets have a chunk hash.
+					// SW only fetch them once.
+					// They'll have another name on change.
+					":rest:"
+				]
+			},
+			// To remove a warning about additional need to have hash
+			safeToUseOptionalCaches: true,
+			// "additional" section is fetch only once.
+			updateStrategy: "changed"
+		})
 	]
 });
