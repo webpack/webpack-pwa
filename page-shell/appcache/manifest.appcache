@@ -1,16 +1,8 @@
 CACHE MANIFEST
-#ver:2017-1-30 19:06:44
+#ver:2017-2-10 17:34:20
 #plugin:4.5.5
 
 CACHE:
-../8528a14284af53fbaf93.js
-../5d171d9a7dc678c4f1b4.js
-../55fd9cc1ae8db654e7d0.js
-../a9ef480fa0d7d2a0db79.js
-../c59d25ea34a87b033d50.js
-../dashboard-315c439f03da69f97b48.js
-../login-bcafacbf22c7d810978b.js
-../admin-ce05aa6452a41547ba02.js
 ../dashboard.html
 ../login.html
 ../admin.html

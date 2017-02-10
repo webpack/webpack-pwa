@@ -1,0 +1,1 @@
+webpackJsonp([0],{2:function(e,n,r){"use strict";function o(e){return document.body.innerHTML="<h1>Error happened: </h1>",document.querySelector("h1").innerText=e.message,Promise.resolve()}function t(){return Promise.resolve()}Object.defineProperty(n,"__esModule",{value:!0}),n.open=o,n.close=t}});
