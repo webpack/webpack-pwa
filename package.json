@@ -13,13 +13,14 @@
   "author": "Tobias Koppers @sokra",
   "license": "MIT",
   "devDependencies": {
-    "html-loader": "^0.4.4",
-    "html-webpack-plugin": "^2.26.0",
-    "offline-plugin": "^4.5.5",
-    "webpack": "^2.2.0",
-    "webpack-dev-server": "^2.0.0"
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "offline-plugin": "^5.0.7",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.1"
   },
   "dependencies": {
-    "gh-pages": "^0.12.0"
+    "gh-pages": "^2.1.1"
   }
 }
